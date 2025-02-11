@@ -1,6 +1,6 @@
 # Programa simples de cadastro, alteração, exclusão e consulta de dados
 
-# Dicionário para armazenar os dados (poderia ser um banco de dados real)
+# Dicionário para armazenar os dados
 dados = {}
 
 def incluir_dado():
